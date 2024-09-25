@@ -1,0 +1,43 @@
+4 paari
+
+Connecting to host 192.168.1.129, port 5201
+[  6] local 192.168.1.124 port 51214 connected to 192.168.1.129 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.00   sec   512 KBytes  4.18 Mbits/sec                  
+[  6]   1.00-2.01   sec   256 KBytes  2.07 Mbits/sec                  
+[  6]   2.01-3.02   sec   384 KBytes  3.14 Mbits/sec                  
+[  6]   3.02-4.01   sec   384 KBytes  3.17 Mbits/sec                  
+[  6]   4.01-5.00   sec   256 KBytes  2.10 Mbits/sec                  
+[  6]   5.00-6.00   sec   256 KBytes  2.10 Mbits/sec                  
+[  6]   6.00-7.01   sec  0.00 Bytes  0.00 bits/sec                  
+[  6]   7.01-8.00   sec   512 KBytes  4.21 Mbits/sec                  
+[  6]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec                  
+[  6]   9.00-10.01  sec   256 KBytes  2.08 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.01  sec  2.88 MBytes  2.41 Mbits/sec                  sender
+[  6]   0.00-10.53  sec  2.75 MBytes  2.19 Mbits/sec                  receiver
+
+iperf Done.
+
+6 paari
+
+Connecting to host 192.168.1.129, port 5201
+[  6] local 192.168.1.124 port 51221 connected to 192.168.1.129 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.01   sec   384 KBytes  3.12 Mbits/sec                  
+[  6]   1.01-2.01   sec   256 KBytes  2.10 Mbits/sec                  
+[  6]   2.01-3.00   sec   256 KBytes  2.11 Mbits/sec                  
+[  6]   3.00-4.01   sec   256 KBytes  2.08 Mbits/sec                  
+[  6]   4.01-5.01   sec   256 KBytes  2.10 Mbits/sec                  
+[  6]   5.01-6.01   sec   256 KBytes  2.10 Mbits/sec                  
+[  6]   6.01-7.01   sec   256 KBytes  2.10 Mbits/sec                  
+[  6]   7.01-8.00   sec   384 KBytes  3.16 Mbits/sec                  
+[  6]   8.00-9.01   sec   256 KBytes  2.09 Mbits/sec                  
+[  6]   9.01-10.01  sec   128 KBytes  1.04 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.01  sec  2.62 MBytes  2.20 Mbits/sec                  sender
+[  6]   0.00-10.70  sec  2.38 MBytes  1.86 Mbits/sec                  receiver
+
+iperf Done.
