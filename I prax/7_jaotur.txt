@@ -1,0 +1,129 @@
+TCP 1 paar 128kB
+
+Connecting to host 169.254.31.106, port 5201
+[  5] local 169.254.217.44 port 51102 connected to 169.254.31.106 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec  11.9 MBytes  98.5 Mbits/sec
+[  5]   1.01-2.01   sec  11.6 MBytes  97.2 Mbits/sec
+[  5]   2.01-3.01   sec  10.8 MBytes  90.4 Mbits/sec
+[  5]   3.01-4.00   sec  10.4 MBytes  87.8 Mbits/sec
+[  5]   4.00-5.01   sec  11.4 MBytes  95.2 Mbits/sec
+[  5]   5.01-6.01   sec  11.2 MBytes  94.1 Mbits/sec
+[  5]   6.01-7.00   sec  10.5 MBytes  88.5 Mbits/sec
+[  5]   7.00-8.01   sec  11.2 MBytes  93.6 Mbits/sec
+[  5]   8.01-9.01   sec  10.6 MBytes  89.3 Mbits/sec
+[  5]   9.01-10.00  sec  10.5 MBytes  88.8 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec   110 MBytes  92.4 Mbits/sec                  sender
+[  5]   0.00-10.03  sec   109 MBytes  91.3 Mbits/sec                  receiver
+
+UDP 1 paar 8kB
+
+iperf Done.Connecting to host 169.254.31.106, port 5201
+[  6] local 169.254.217.44 port 57468 connected to 169.254.31.106 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  6]   0.00-1.01   sec   128 KBytes  1.04 Mbits/sec  91  
+[  6]   1.01-2.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   2.01-3.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   3.01-4.01   sec   127 KBytes  1.04 Mbits/sec  89  
+[  6]   4.01-5.02   sec   128 KBytes  1.05 Mbits/sec  89  
+[  6]   5.02-6.00   sec   127 KBytes  1.06 Mbits/sec  90  
+[  6]   6.00-7.01   sec   128 KBytes  1.04 Mbits/sec  90  
+[  6]   7.01-8.00   sec   128 KBytes  1.06 Mbits/sec  89  
+[  6]   8.00-9.00   sec   127 KBytes  1.04 Mbits/sec  90  
+[  6]   9.00-10.00  sec   130 KBytes  1.06 Mbits/sec  90  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec  0.000 ms  0/898 (0%)  sender
+[  6]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec  1.709 ms  0/898 (0%)  receiver
+
+iperf Done.
+
+TCP 2 paari 128kB
+
+Connecting to host 169.254.31.106, port 5201
+[  6] local 169.254.217.44 port 51106 connected to 169.254.31.106 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.01   sec  11.6 MBytes  97.0 Mbits/sec                  
+[  6]   1.01-2.00   sec  10.1 MBytes  85.2 Mbits/sec                  
+[  6]   2.00-3.01   sec  11.0 MBytes  91.8 Mbits/sec                  
+[  6]   3.01-4.01   sec  11.8 MBytes  97.9 Mbits/sec                  
+[  6]   4.01-5.00   sec  10.5 MBytes  89.1 Mbits/sec                  
+[  6]   5.00-6.01   sec  11.0 MBytes  91.5 Mbits/sec                  
+[  6]   6.01-7.01   sec  10.8 MBytes  90.4 Mbits/sec                  
+[  6]   7.01-8.01   sec  10.6 MBytes  89.2 Mbits/sec                  
+[  6]   8.01-9.01   sec  10.9 MBytes  91.4 Mbits/sec                  
+[  6]   9.01-10.01  sec  10.8 MBytes  90.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.01  sec   109 MBytes  91.4 Mbits/sec                  sender
+[  6]   0.00-10.02  sec   108 MBytes  90.4 Mbits/sec                  receiver
+
+iperf Done.
+
+UDP 2 paari 8kB
+
+Connecting to host 169.254.31.106, port 5201
+[  6] local 169.254.217.44 port 60283 connected to 169.254.31.106 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  6]   0.00-1.01   sec   128 KBytes  1.04 Mbits/sec  91  
+[  6]   1.01-2.00   sec   127 KBytes  1.05 Mbits/sec  89  
+[  6]   2.00-3.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   3.01-4.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   4.01-5.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   5.01-6.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   6.01-7.01   sec   127 KBytes  1.04 Mbits/sec  89  
+[  6]   7.01-8.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   8.01-9.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   9.01-10.01  sec   130 KBytes  1.06 Mbits/sec  90  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-10.01  sec  1.25 MBytes  1.05 Mbits/sec  0.000 ms  0/899 (0%)  sender
+[  6]   0.00-10.02  sec  1.25 MBytes  1.05 Mbits/sec  0.594 ms  0/899 (0%)  receiver
+
+iperf Done.
+
+TCP 3 paari 128kB
+
+Connecting to host 192.168.10.124, port 5201
+[  6] local 192.168.10.118 port 51149 connected to 192.168.10.124 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.01   sec  12.1 MBytes   101 Mbits/sec                  
+[  6]   1.01-2.01   sec  11.1 MBytes  93.0 Mbits/sec                  
+[  6]   2.01-3.01   sec  11.2 MBytes  94.9 Mbits/sec                  
+[  6]   3.01-4.00   sec  10.6 MBytes  89.3 Mbits/sec                  
+[  6]   4.00-5.01   sec  11.2 MBytes  93.8 Mbits/sec                  
+[  6]   5.01-6.01   sec  10.0 MBytes  84.2 Mbits/sec                  
+[  6]   6.01-7.01   sec  11.1 MBytes  93.2 Mbits/sec                  
+[  6]   7.01-8.00   sec  10.6 MBytes  89.6 Mbits/sec                  
+[  6]   8.00-9.00   sec  11.5 MBytes  96.7 Mbits/sec                  
+[  6]   9.00-10.00  sec  10.2 MBytes  86.0 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.00  sec   110 MBytes  92.2 Mbits/sec                  sender
+[  6]   0.00-10.06  sec   109 MBytes  91.2 Mbits/sec                  receiver
+
+iperf Done.
+
+UDP 3 paari 8kB
+
+Connecting to host 192.168.10.124, port 5201
+[  6] local 192.168.10.118 port 55928 connected to 192.168.10.124 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  6]   0.00-1.01   sec   128 KBytes  1.04 Mbits/sec  91  
+[  6]   1.01-2.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   2.01-3.01   sec   127 KBytes  1.04 Mbits/sec  89  
+[  6]   3.01-4.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   4.01-5.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   5.01-6.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   6.01-7.00   sec   127 KBytes  1.05 Mbits/sec  89  
+[  6]   7.00-8.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   8.01-9.01   sec   128 KBytes  1.05 Mbits/sec  90  
+[  6]   9.01-10.01  sec   130 KBytes  1.06 Mbits/sec  90  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-10.01  sec  1.25 MBytes  1.05 Mbits/sec  0.000 ms  0/899 (0%)  sender
+[  6]   0.00-10.02  sec  1.25 MBytes  1.05 Mbits/sec  0.196 ms  0/899 (0%)  receiver
+
+iperf Done.
