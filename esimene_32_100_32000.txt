@@ -1,0 +1,65 @@
+32B
+
+Connecting to host 192.168.10.124, port 5201
+[  6] local 192.168.10.118 port 61074 connected to 192.168.10.124 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.01   sec  4.59 MBytes  38.2 Mbits/sec                  
+[  6]   1.01-2.01   sec  1.06 MBytes  8.91 Mbits/sec                  
+[  6]   2.01-3.01   sec  3.00 MBytes  25.2 Mbits/sec                  
+[  6]   3.01-4.02   sec  1.19 KBytes  9.56 Kbits/sec                  
+[  6]   4.02-5.00   sec  2.00 MBytes  17.1 Mbits/sec                  
+[  6]   5.00-6.00   sec  2.00 MBytes  16.8 Mbits/sec                  
+[  6]   6.00-7.00   sec   800 Bytes  6.40 Kbits/sec                  
+[  6]   7.00-8.00   sec  2.00 MBytes  16.8 Mbits/sec                  
+[  6]   8.00-9.00   sec   952 KBytes  7.82 Mbits/sec                  
+[  6]   9.00-10.00  sec  1.07 MBytes  8.97 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.00  sec  16.7 MBytes  14.0 Mbits/sec                  sender
+[  6]   0.00-10.00  sec  12.4 MBytes  10.4 Mbits/sec                  receiver
+
+iperf Done.
+
+100B
+
+Connecting to host 192.168.10.124, port 5201
+[  6] local 192.168.10.118 port 61079 connected to 192.168.10.124 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.01   sec  8.42 MBytes  69.9 Mbits/sec                  
+[  6]   1.01-2.01   sec  4.00 MBytes  33.7 Mbits/sec                  
+[  6]   2.01-3.01   sec  4.00 MBytes  33.5 Mbits/sec                  
+[  6]   3.01-4.01   sec  4.00 MBytes  33.6 Mbits/sec                  
+[  6]   4.01-5.01   sec  4.00 MBytes  33.6 Mbits/sec                  
+[  6]   5.01-6.01   sec  4.00 MBytes  33.5 Mbits/sec                  
+[  6]   6.01-7.00   sec  4.00 MBytes  33.7 Mbits/sec                  
+[  6]   7.00-8.01   sec  3.65 MBytes  30.5 Mbits/sec                  
+[  6]   8.01-9.01   sec  2.97 MBytes  25.0 Mbits/sec                  
+[  6]   9.01-10.01  sec  3.44 MBytes  28.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.01  sec  42.5 MBytes  35.6 Mbits/sec                  sender
+[  6]   0.00-10.01  sec  39.2 MBytes  32.8 Mbits/sec                  receiver
+
+iperf Done.
+
+32kB
+
+Connecting to host 192.168.10.124, port 5201
+[  6] local 192.168.10.118 port 61090 connected to 192.168.10.124 port 5201
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-1.01   sec   118 MBytes   976 Mbits/sec                  
+[  6]   1.01-2.01   sec   111 MBytes   933 Mbits/sec                  
+[  6]   2.01-3.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   3.01-4.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   4.01-5.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   5.01-6.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   6.01-7.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   7.01-8.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   8.01-9.01   sec   113 MBytes   949 Mbits/sec                  
+[  6]   9.01-10.01  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-10.01  sec  1.11 GBytes   950 Mbits/sec                  sender
+[  6]   0.00-10.03  sec  1.11 GBytes   947 Mbits/sec                  receiver
+
+iperf Done.
